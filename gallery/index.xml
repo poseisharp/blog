@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on Posei</title>
-    <link>http://example.org/gallery/</link>
+    <link>http://posei.me/gallery/</link>
     <description>Recent content in Galleries on Posei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 14 Mar 2022 08:00:56 +0700</lastBuildDate>
     
-        <atom:link href="http://example.org/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://posei.me/gallery/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Finished</title>
-        <link>http://example.org/gallery/finished/</link>
+        <link>http://posei.me/gallery/finished/</link>
         <pubDate>Mon, 14 Mar 2022 08:00:56 +0700</pubDate>
         
         <atom:modified>Mon, 14 Mar 2022 08:00:56 +0700</atom:modified>
-        <guid>http://example.org/gallery/finished/</guid>
+        <guid>http://posei.me/gallery/finished/</guid>
         <description></description>
         
         <dc:creator>Posei</dc:creator>
@@ -50,11 +50,11 @@
       
       <item>
         <title>Exercices</title>
-        <link>http://example.org/gallery/exercices/</link>
+        <link>http://posei.me/gallery/exercices/</link>
         <pubDate>Mon, 14 Mar 2022 07:19:47 +0700</pubDate>
         
         <atom:modified>Mon, 14 Mar 2022 07:19:47 +0700</atom:modified>
-        <guid>http://example.org/gallery/exercices/</guid>
+        <guid>http://posei.me/gallery/exercices/</guid>
         <description></description>
         
         <dc:creator>Posei</dc:creator>
