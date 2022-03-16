@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Posei</title>
-    <link>http://posei.me/categories/</link>
+    <link>https://posei.me/categories/</link>
     <description>Recent content in Categories on Posei</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://posei.me/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://posei.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Art</title>
-        <link>http://posei.me/categories/art/</link>
+        <link>https://posei.me/categories/art/</link>
         <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
         
         
-        <guid>http://posei.me/categories/art/</guid>
+        <guid>https://posei.me/categories/art/</guid>
         <description></description>
         
         <dc:creator>Posei</dc:creator>
