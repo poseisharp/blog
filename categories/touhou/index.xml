@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>touhou on Posei</title>
+    <link>https://posei.me/categories/touhou/</link>
+    <description>Recent content in touhou on Posei</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 07 Mar 2022 20:18:19 +0700</lastBuildDate>
+    
+        <atom:link href="https://posei.me/categories/touhou/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Yomu</title>
+        <link>https://posei.me/posts/yomu/</link>
+        <pubDate>Mon, 07 Mar 2022 20:18:19 +0700</pubDate>
+        
+        <atom:modified>Mon, 07 Mar 2022 20:18:19 +0700</atom:modified>
+        <guid>https://posei.me/posts/yomu/</guid>
+        <description>I like yomu.
+sauce: yomu</description>
+        
+        <dc:creator>Posei</dc:creator>
+        <media:content url="https://posei.me/posts/yomu.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+        
+          
+            
+              <category>touhou</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

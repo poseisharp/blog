@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2022 20:18:19 +0700</lastBuildDate>
     
         <atom:link href="https://posei.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,49 +40,24 @@
 
       
       <item>
-        <title>Let&#39;s start with circles</title>
-        <link>https://posei.me/posts/en/lets-start-with-circle/</link>
-        <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+        <title>Yomu</title>
+        <link>https://posei.me/posts/yomu/</link>
+        <pubDate>Mon, 07 Mar 2022 20:18:19 +0700</pubDate>
         
-        <atom:modified>Wed, 16 Mar 2022 00:00:00 +0000</atom:modified>
-        <guid>https://posei.me/posts/en/lets-start-with-circle/</guid>
-        <description>Circles!   Well, tbh it&amp;rsquo;s quite a stretch to call these circles, it&amp;rsquo;s a bunch of deformed eggs at best.
-However, I now somehwat know that I have a lot to work on, a bit daunting but I have a clear path.
-I&amp;rsquo;ll continue to draw more circles for the next couple of days until I get the hang of it, then I&amp;rsquo;ll move on.</description>
-        
-        <dc:creator>Posei</dc:creator>
-        <media:content url="https://posei.me/posts/lets-start-with-circle.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-        
-          
-            
-              <category>Art</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Auspicious Start</title>
-        <link>https://posei.me/posts/en/auspicious-start/</link>
-        <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-        
-        <atom:modified>Mon, 14 Mar 2022 00:00:00 +0000</atom:modified>
-        <guid>https://posei.me/posts/en/auspicious-start/</guid>
-        <description>Failed Attemps I&amp;rsquo;ve been wanting to start learning how to draw for quite some time now but for some reason I always ended up dropping it, probably commitment issues xd. Well, whatever the reasons are I would like to try again and I think this time I&amp;rsquo;ve set up measures to minimize failure, this site is one of said measure. Futhermore, this time I have a clear actionable goal in mind</description>
+        <atom:modified>Mon, 07 Mar 2022 20:18:19 +0700</atom:modified>
+        <guid>https://posei.me/posts/yomu/</guid>
+        <description>I like yomu.
+sauce: yomu</description>
         
         <dc:creator>Posei</dc:creator>
-        <media:content url="https://posei.me/posts/auspicious-start.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://posei.me/posts/yomu.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
         
           
             
-              <category>Art</category>
+              <category>touhou</category>
             
           
         
